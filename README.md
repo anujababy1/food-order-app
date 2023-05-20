@@ -5,7 +5,7 @@ This project is designed as a refresher for fundamental React concepts. It inclu
 ## Instructions to follow
 
 ```sh
-1)git clone https://github.com/anujababy1/food-order-app.git
+1)git clone https://github.com/anujababy1/food-order-app__react.git
 2)git fetch origin
 3)npm install
 4)npm start
