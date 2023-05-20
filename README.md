@@ -1,7 +1,6 @@
 ## Food order app
 
-This project serves as a refresher for fundamental React concepts.
-This project includes features for adding food items to the cart and removing them from the cart. It utilizes fundamental React concepts in its implementation.
+This project is designed as a refresher for fundamental React concepts. It includes functionality to add food items to a cart and remove them from it. Throughout the project, essential React concepts are utilized for implementation.
 
 ## Instructions to follow
 
